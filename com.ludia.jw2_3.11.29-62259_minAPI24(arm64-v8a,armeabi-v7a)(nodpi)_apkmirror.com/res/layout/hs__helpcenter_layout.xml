@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/hs__helpcenter_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.helpshift.views.HSWebView android:id="@id/hs__helpcenter_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <include android:id="@id/hs__loading_view" layout="@layout/hs__loading_view_layout" />
+    <include android:id="@id/hs__retry_view" android:visibility="gone" layout="@layout/hs__retry_view_layout" />
+</FrameLayout>

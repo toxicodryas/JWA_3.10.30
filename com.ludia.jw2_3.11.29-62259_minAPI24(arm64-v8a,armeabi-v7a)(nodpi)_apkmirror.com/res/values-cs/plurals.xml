@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Bylo smazáno %1$dzpráv</item>
+        <item quantity="one">Smazána zpráva %1$d</item>
+        <item quantity="few">Bylo smazáno %1$dzpráv</item>
+        <item quantity="many">Bylo smazáno %1$dzpráv</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Označeno %1$dzpráv jako přečtených</item>
+        <item quantity="one">Byla označena %1$dzpráva jako přečtená</item>
+        <item quantity="few">Označeno %1$dzpráv jako přečtených</item>
+        <item quantity="many">Označeno %1$dzpráv jako přečtených</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">Počet vybraných: %1$d</item>
+        <item quantity="one">Počet vybraných: %1$d</item>
+        <item quantity="few">Počet vybraných: %1$d</item>
+        <item quantity="many">Počet vybraných: %1$d</item>
+    </plurals>
+</resources>

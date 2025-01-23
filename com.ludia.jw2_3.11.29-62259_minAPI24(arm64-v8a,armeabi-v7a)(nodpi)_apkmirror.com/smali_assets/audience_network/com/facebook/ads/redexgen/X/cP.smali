@@ -1,0 +1,85 @@
+.class public final Lcom/facebook/ads/redexgen/X/cP;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/facebook/ads/redexgen/X/64;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/facebook/ads/redexgen/X/Fq;->A0D(Z)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+
+# instance fields
+.field public final synthetic A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+
+# direct methods
+.method public constructor <init>(Lcom/facebook/ads/redexgen/X/Fq;)V
+    .locals 0
+
+    .line 75412
+    iput-object p1, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final ABB()V
+    .locals 2
+
+    .line 75413
+    iget-object v0, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    invoke-static {v0}, Lcom/facebook/ads/redexgen/X/Fq;->A05(Lcom/facebook/ads/redexgen/X/Fq;)Ljava/util/concurrent/atomic/AtomicBoolean;
+
+    move-result-object v1
+
+    const/4 v0, 0x1
+
+    invoke-virtual {v1, v0}, Ljava/util/concurrent/atomic/AtomicBoolean;->set(Z)V
+
+    .line 75414
+    iget-object v0, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    invoke-static {v0}, Lcom/facebook/ads/redexgen/X/Fq;->A00(Lcom/facebook/ads/redexgen/X/Fq;)Lcom/facebook/ads/redexgen/X/17;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    invoke-interface {v1, v0}, Lcom/facebook/ads/redexgen/X/17;->ADR(Lcom/facebook/ads/redexgen/X/cH;)V
+
+    .line 75415
+    return-void
+.end method
+
+.method public final ABC()V
+    .locals 3
+
+    .line 75416
+    iget-object v0, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    invoke-static {v0}, Lcom/facebook/ads/redexgen/X/Fq;->A00(Lcom/facebook/ads/redexgen/X/Fq;)Lcom/facebook/ads/redexgen/X/17;
+
+    move-result-object v2
+
+    iget-object v1, p0, Lcom/facebook/ads/redexgen/X/cP;->A00:Lcom/facebook/ads/redexgen/X/Fq;
+
+    sget-object v0, Lcom/facebook/ads/AdError;->CACHE_ERROR:Lcom/facebook/ads/AdError;
+
+    invoke-interface {v2, v1, v0}, Lcom/facebook/ads/redexgen/X/17;->ADU(Lcom/facebook/ads/redexgen/X/cH;Lcom/facebook/ads/AdError;)V
+
+    .line 75417
+    return-void
+.end method

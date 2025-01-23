@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">%1$dmessaggi eliminati</item>
+        <item quantity="one">Messaggio %1$deliminato</item>
+        <item quantity="many">%1$dmessaggi eliminati</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dmessaggi contrassegnati come letti</item>
+        <item quantity="one">Messaggio %1$dcontrassegnato come letto</item>
+        <item quantity="many">%1$dmessaggi contrassegnati come letti</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+        <item quantity="many">%1$d selezionati</item>
+    </plurals>
+</resources>

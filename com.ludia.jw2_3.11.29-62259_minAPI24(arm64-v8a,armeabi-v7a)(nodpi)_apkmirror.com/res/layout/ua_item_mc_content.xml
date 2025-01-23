@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Widget.UrbanAirship.MessageCenter.Item.Container"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/checkbox" style="@style/Widget.UrbanAirship.MessageCenter.Item.CheckBox" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/title" style="@style/Widget.UrbanAirship.MessageCenter.Item.Title" />
+        <TextView android:id="@id/date" style="@style/Widget.UrbanAirship.MessageCenter.Item.Date" />
+    </LinearLayout>
+</LinearLayout>

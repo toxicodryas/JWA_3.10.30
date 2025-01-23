@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">%1$dپیام حذف شد</item>
+        <item quantity="one">پیام %1$dحذف شد</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dپیام به عنوان خوانده شده علامت‌گذاری شد</item>
+        <item quantity="one">پیام %1$dبه عنوان خوانده شده علامت‌گذاری شد</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$dانتخاب شد</item>
+        <item quantity="one">%1$dانتخاب شد</item>
+    </plurals>
+</resources>

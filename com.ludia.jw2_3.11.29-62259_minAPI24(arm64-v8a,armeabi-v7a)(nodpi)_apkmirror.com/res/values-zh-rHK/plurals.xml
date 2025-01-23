@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 個新通知</item>
+        <item quantity="one">%d 個新通知</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">已刪除 %1$d封郵件</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">已將 %1$d封郵件標記為已讀</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">已選擇 %1$d</item>
+    </plurals>
+</resources>

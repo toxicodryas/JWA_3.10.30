@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Удалено %1$dсообщений</item>
+        <item quantity="one">Удалено %1$dсообщение</item>
+        <item quantity="few">Удалено %1$dсообщения</item>
+        <item quantity="many">Удалено %1$dсообщений</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dсообщений помечены как прочитанные</item>
+        <item quantity="one">%1$dсообщение помечено как прочитанное</item>
+        <item quantity="few">%1$dсообщения помечены как прочитанные</item>
+        <item quantity="many">%1$dсообщений помечены как прочитанные</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d выбрано</item>
+        <item quantity="one">%1$d выбран</item>
+        <item quantity="few">%1$d выбрано</item>
+        <item quantity="many">%1$d выбрано</item>
+    </plurals>
+</resources>

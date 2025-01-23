@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/hs__loading_view_close_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:src="@drawable/hs__cross_icon" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/hs__chat_image" android:layout_width="100.0dip" android:layout_height="100.0dip" android:src="@drawable/hs__chat_icon" android:alpha="0.4" />
+        <ProgressBar android:id="@id/hs__progress" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginTop="8.0dip" android:alpha="0.4" android:foregroundTint="@android:color/darker_gray" />
+    </LinearLayout>
+</RelativeLayout>

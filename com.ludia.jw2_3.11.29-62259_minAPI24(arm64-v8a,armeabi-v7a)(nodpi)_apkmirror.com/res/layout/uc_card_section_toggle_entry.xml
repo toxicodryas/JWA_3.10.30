@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.usercentrics.sdk.ui.components.UCToggle android:id="@id/ucCardSectionToggleEntrySwitch" android:layout_width="wrap_content" android:layout_height="20.0dip" android:scaleX="0.85" android:scaleY="0.85" />
+    <com.usercentrics.sdk.ui.components.UCTextView android:textSize="@dimen/ucFontSmallSize" android:id="@id/ucCardSectionToggleEntryText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:layout_weight="1.0" android:layout_marginEnd="12.0dip" />
+    <com.usercentrics.sdk.ui.components.UCImageView android:id="@id/ucCardSectionToggleEntryInfo" android:background="?selectableItemBackgroundBorderless" android:padding="4.0dip" android:layout_width="26.0dip" android:layout_height="26.0dip" />
+</LinearLayout>

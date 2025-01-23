@@ -1,0 +1,205 @@
+version: 2.10.0
+apkFileName: com.ludia.jw2_3.11.29-62259_minAPI24(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 24
+  targetSdkVersion: 34
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 62259
+  versionName: 3.11.29
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: 8
+  androidsupportmultidexversion.txt: 0
+  app-update.properties: 8
+  asset-delivery.properties: 8
+  billing.properties: 8
+  byte_string_store.proto: 8
+  client_analytics.proto: 8
+  core-common.properties: 8
+  firebase-analytics.properties: 8
+  firebase-annotations.properties: 8
+  firebase-auth-interop.properties: 8
+  firebase-encoders-proto.properties: 8
+  firebase-encoders.properties: 8
+  firebase-iid-interop.properties: 8
+  firebase-iid.properties: 8
+  firebase-measurement-connector.properties: 8
+  integrity.properties: 8
+  messaging_event.proto: 8
+  messaging_event_extension.proto: 8
+  play-services-ads-base.properties: 8
+  play-services-ads-identifier.properties: 8
+  play-services-ads-lite.properties: 8
+  play-services-ads.properties: 8
+  play-services-appinvite.properties: 8
+  play-services-appset.properties: 8
+  play-services-auth-api-phone.properties: 8
+  play-services-auth-base.properties: 8
+  play-services-auth.properties: 8
+  play-services-base.properties: 8
+  play-services-basement.properties: 8
+  play-services-cloud-messaging.properties: 8
+  play-services-cronet.properties: 8
+  play-services-drive.properties: 8
+  play-services-games.properties: 8
+  play-services-gcm.properties: 8
+  play-services-iid.properties: 8
+  play-services-location.properties: 8
+  play-services-measurement-api.properties: 8
+  play-services-measurement-base.properties: 8
+  play-services-measurement-impl.properties: 8
+  play-services-measurement-sdk-api.properties: 8
+  play-services-measurement-sdk.properties: 8
+  play-services-measurement.properties: 8
+  play-services-nearby.properties: 8
+  play-services-places-placereport.properties: 8
+  play-services-stats.properties: 8
+  play-services-tasks.properties: 8
+  protolite-well-known-types.properties: 8
+  universal_request_store.proto: 8
+  user-messaging-platform.properties: 8
+  webview_configuration_store.proto: 8
+  firebase/perf/v1/perf_metric.proto: 8
+  gatewayprotocol/v1/ad_data_refresh_request.proto: 8
+  gatewayprotocol/v1/ad_data_refresh_response.proto: 8
+  gatewayprotocol/v1/ad_player_config_request.proto: 8
+  gatewayprotocol/v1/ad_player_config_response.proto: 8
+  gatewayprotocol/v1/ad_request.proto: 8
+  gatewayprotocol/v1/ad_response.proto: 8
+  gatewayprotocol/v1/allowed_pii.proto: 8
+  gatewayprotocol/v1/bid_request_event.proto: 8
+  gatewayprotocol/v1/campaign_state.proto: 8
+  gatewayprotocol/v1/client_info.proto: 8
+  gatewayprotocol/v1/developer_consent.proto: 8
+  gatewayprotocol/v1/diagnostic_event_request.proto: 8
+  gatewayprotocol/v1/dynamic_device_info.proto: 8
+  gatewayprotocol/v1/error.proto: 8
+  gatewayprotocol/v1/get_token_event_request.proto: 8
+  gatewayprotocol/v1/header_bidding_ad_markup.proto: 8
+  gatewayprotocol/v1/header_bidding_token.proto: 8
+  gatewayprotocol/v1/initialization_completed_event_request.proto: 8
+  gatewayprotocol/v1/initialization_data.proto: 8
+  gatewayprotocol/v1/initialization_request.proto: 8
+  gatewayprotocol/v1/initialization_response.proto: 8
+  gatewayprotocol/v1/mutable_data.proto: 8
+  gatewayprotocol/v1/native_configuration.proto: 8
+  gatewayprotocol/v1/network_capability_transports.proto: 8
+  gatewayprotocol/v1/operative_event_request.proto: 8
+  gatewayprotocol/v1/pii.proto: 8
+  gatewayprotocol/v1/privacy_update_request.proto: 8
+  gatewayprotocol/v1/privacy_update_response.proto: 8
+  gatewayprotocol/v1/session_counters.proto: 8
+  gatewayprotocol/v1/static_device_info.proto: 8
+  gatewayprotocol/v1/test_data.proto: 8
+  gatewayprotocol/v1/timestamps.proto: 8
+  gatewayprotocol/v1/transaction_event_request.proto: 8
+  gatewayprotocol/v1/universal_request.proto: 8
+  gatewayprotocol/v1/universal_response.proto: 8
+  gatewayprotocol/v1/webview_configuration.proto: 8
+  google/protobuf/any.proto: 8
+  google/protobuf/api.proto: 8
+  google/protobuf/duration.proto: 8
+  google/protobuf/empty.proto: 8
+  google/protobuf/field_mask.proto: 8
+  google/protobuf/source_context.proto: 8
+  google/protobuf/struct.proto: 8
+  google/protobuf/timestamp.proto: 8
+  google/protobuf/type.proto: 8
+  google/protobuf/wrappers.proto: 8
+  io/opentelemetry/api/version.properties: 0
+  io/opentelemetry/api/events/version.properties: 0
+  io/opentelemetry/context/version.properties: 0
+  io/opentelemetry/extension/incubator/version.properties: 0
+  io/opentelemetry/sdk/version.properties: 0
+  io/opentelemetry/sdk/common/version.properties: 0
+  io/opentelemetry/sdk/logs/version.properties: 0
+  io/opentelemetry/sdk/metrics/version.properties: 0
+  io/opentelemetry/sdk/trace/version.properties: 0
+  io/opentelemetry/semconv/version.properties: 0
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 0
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity-ktx.version
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.datastore_datastore-preferences.version
+- META-INF/androidx.datastore_datastore.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.dynamicanimation_dynamicanimation.version
+- META-INF/androidx.emoji2_emoji2-views-helper.version
+- META-INF/androidx.emoji2_emoji2.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-extensions.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.privacysandbox.ads_ads-adservices-java.version
+- META-INF/androidx.privacysandbox.ads_ads-adservices.version
+- META-INF/androidx.profileinstaller_profileinstaller.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.savedstate_savedstate-ktx.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.webkit_webkit.version
+- META-INF/androidx.work_work-runtime-ktx.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/com.android.games.engine.build_fingerprint
+- META-INF/com.google.android.material_material.version
+- META-INF/com.google.dagger_dagger.version
+- META-INF/com.google.play.appupdate.version
+- META-INF/kotlinx_coroutines_android.version
+- META-INF/kotlinx_coroutines_core.version
+- META-INF/kotlinx_coroutines_play_services.version
+- META-INF/native-image/io.opentelemetry/opentelemetry-sdk-trace/reflect-config.json
+- assets/ad-viewer/config.ad-viewer.json
+- assets/bin/Data/RuntimeInitializeOnLoads.json
+- assets/bin/Data/ScriptingAssemblies.json
+- assets/bin/Data/sharedassets0.resource
+- assets/bin/Data/unity_app_guid
+- assets/bin/Data/Managed/Resources/Mapbox.Json.dll-resources.dat
+- assets/bin/Data/UnitySubsystems/UnityARCore/UnitySubsystemsManifest.json
+- assets/dexopt/baseline.prof
+- png
+- res/raw/applovin_consent_flow_privacy_policy.json
+- res/raw/applovin_consent_flow_terms_of_service_and_privacy_policy.json
+- res/raw/applovin_consent_flow_unified_cmp.json
+- res/raw/com_android_billingclient_heterodyne_info
+- res/raw/com_android_billingclient_registration_info.binarypb

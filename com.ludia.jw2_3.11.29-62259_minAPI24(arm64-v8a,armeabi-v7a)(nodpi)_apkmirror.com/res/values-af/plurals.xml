@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Het %1$dboodskappe geskrap</item>
+        <item quantity="one">Het %1$dboodskap geskrap</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Het %1$dboodskappe as gelees gemerk</item>
+        <item quantity="one">Gemerk %1$dboodskap as gelees</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d gekies</item>
+        <item quantity="one">%1$d gekies</item>
+    </plurals>
+</resources>

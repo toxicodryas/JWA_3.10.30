@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Избрисано је %1$dпорука</item>
+        <item quantity="one">Избрисана је %1$dпорука</item>
+        <item quantity="few">Избрисано је %1$dпорука</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Означено је као прочитано ( %1$d).</item>
+        <item quantity="one">%1$dпорука је означена као прочитана</item>
+        <item quantity="few">Означено је као прочитано ( %1$d).</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">Изабрано је %1$d</item>
+        <item quantity="one">Изабрано је %1$d</item>
+        <item quantity="few">Изабрано је %1$d</item>
+    </plurals>
+</resources>

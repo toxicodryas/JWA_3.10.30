@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Ujumbe %1$dumefutwa</item>
+        <item quantity="one">Ujumbe %1$dumefutwa</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Imetia alama kuwa barua pepe %1$dzimesomwa</item>
+        <item quantity="one">Imetia alama kuwa ujumbe %1$dumesomwa</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d imechaguliwa</item>
+        <item quantity="one">%1$d imechaguliwa</item>
+    </plurals>
+</resources>

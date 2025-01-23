@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Đã xóa %1$dtin nhắn</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Đã đánh dấu %1$dtin nhắn là đã đọc</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d được chọn khác</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">נמחקו %1$dהודעות</item>
+        <item quantity="one">הודעה אחת ( %1$d) נמחקה</item>
+        <item quantity="two">נמחקו %1$dהודעות</item>
+        <item quantity="many">נמחקו %1$dהודעות</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">סומנו %1$dהודעות כנקראו</item>
+        <item quantity="one">סומנה הודעה %1$dכנקראה</item>
+        <item quantity="two">סומנו %1$dהודעות כנקראו</item>
+        <item quantity="many">סומנו %1$dהודעות כנקראו</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$dנבחרו</item>
+        <item quantity="one">%1$dנבחר</item>
+        <item quantity="two">%1$dנבחרו</item>
+        <item quantity="many">%1$dנבחרו</item>
+    </plurals>
+</resources>

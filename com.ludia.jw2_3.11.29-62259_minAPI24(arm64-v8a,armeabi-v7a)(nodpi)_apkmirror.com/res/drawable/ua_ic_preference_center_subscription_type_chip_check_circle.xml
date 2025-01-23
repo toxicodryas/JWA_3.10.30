@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <layer-list>
+            <item android:drawable="@drawable/ua_ic_preference_center_subscription_type_chip_background" />
+            <item android:drawable="@drawable/ua_ic_preference_center_subscription_type_chip_foreground" android:left="4.0dip" android:top="4.0dip" android:right="4.0dip" android:bottom="4.0dip" android:start="4.0dip" android:end="4.0dip" />
+        </layer-list>
+    </item>
+    <item android:drawable="@drawable/ua_ic_preference_center_subscription_type_chip_background" />
+</selector>

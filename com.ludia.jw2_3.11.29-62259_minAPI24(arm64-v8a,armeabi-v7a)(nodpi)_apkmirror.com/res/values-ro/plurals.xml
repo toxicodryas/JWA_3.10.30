@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">S-au șters %1$dmesaje</item>
+        <item quantity="one">S-a șters %1$dmesaj</item>
+        <item quantity="few">S-au șters %1$dmesaje</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">S-au marcat %1$dmesaje ca citite</item>
+        <item quantity="one">S-a marcat %1$dmesaj ca citit</item>
+        <item quantity="few">S-au marcat %1$dmesaje ca citite</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d au fost selectate</item>
+        <item quantity="one">%1$d a fost selectat</item>
+        <item quantity="few">%1$d au fost selectate</item>
+    </plurals>
+</resources>

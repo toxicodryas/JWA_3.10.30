@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">%1$dmensagens apagadas</item>
+        <item quantity="one">%1$dmensagem apagada</item>
+        <item quantity="many">%1$dmensagens apagadas</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dmensagens marcadas como lidas</item>
+        <item quantity="one">%1$dmensagem marcada como lida</item>
+        <item quantity="many">%1$dmensagens marcadas como lidas</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+        <item quantity="many">%1$d selecionados</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.usercentrics.sdk.ui.components.UCTextView android:textSize="@dimen/ucFontSmallSize" android:id="@id/ucCardSectionEntryTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.usercentrics.sdk.ui.components.UCTextView android:id="@id/ucCardSectionEntryDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" />
+    <com.google.android.flexbox.FlexboxLayout android:id="@id/ucCardSectionEntryFlexbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" app:flexDirection="row" app:flexWrap="wrap" />
+</LinearLayout>

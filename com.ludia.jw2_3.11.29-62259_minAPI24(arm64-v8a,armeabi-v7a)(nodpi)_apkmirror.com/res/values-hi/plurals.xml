@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नई सूचनाएं</item>
+        <item quantity="one">%d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">मिटाए गए %1$dसंदेश</item>
+        <item quantity="one">मिटाया गया %1$dसंदेश</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dसंदेशों को पढ़ा गया के रूप में चिह्नित किया गया</item>
+        <item quantity="one">%1$dसंदेश को पढ़ा गया के रूप में चिह्नित किया गया</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d चयनित</item>
+        <item quantity="one">%1$d चयनित</item>
+    </plurals>
+</resources>

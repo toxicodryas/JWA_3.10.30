@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Slettet %1$dmeldinger</item>
+        <item quantity="one">Slettet %1$dmelding</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Merket %1$dmeldinger som lest</item>
+        <item quantity="one">Merket %1$dmelding som lest</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+    </plurals>
+</resources>

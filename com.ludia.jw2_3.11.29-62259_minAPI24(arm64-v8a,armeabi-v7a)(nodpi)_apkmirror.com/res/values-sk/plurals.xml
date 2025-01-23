@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Počet odstránených správ: %1$d</item>
+        <item quantity="one">Bola odstránená %1$dspráva</item>
+        <item quantity="few">Počet odstránených správ: %1$d</item>
+        <item quantity="many">Počet odstránených správ: %1$d</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Počet správ označených ako prečítané: %1$d</item>
+        <item quantity="one">Bola označená %1$dspráva ako prečítaná</item>
+        <item quantity="few">Počet správ označených ako prečítané: %1$d</item>
+        <item quantity="many">Počet správ označených ako prečítané: %1$d</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d ďalší zvolený</item>
+        <item quantity="one">%1$d jeden zvolený</item>
+        <item quantity="few">%1$d zopár zvolených</item>
+        <item quantity="many">%1$d veľa zvolených</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="@dimen/ucHeaderBarItemSize" android:layout_height="@dimen/ucHeaderBarItemSize"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.usercentrics.sdk.ui.components.UCImageView android:id="@id/ucHeaderLanguageIcon" android:background="?selectableItemBackgroundBorderless" android:padding="@dimen/ucHeaderBarItemPadding" android:layout_width="@dimen/ucHeaderBarItemSize" android:layout_height="@dimen/ucHeaderBarItemSize" app:srcCompat="@drawable/uc_ic_language" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/ucHeaderLanguageLoading" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" />
+</FrameLayout>

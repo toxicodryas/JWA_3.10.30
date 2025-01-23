@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d izaziso ezintsha</item>
+        <item quantity="one">%d izaziso ezintsha</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Imilayezo engu- %1$desusiwe</item>
+        <item quantity="one">Umlayezo osusiwe ongu- %1$d</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Imakwe imilayezo engu- %1$dnjengefundiwe</item>
+        <item quantity="one">Imakwe umlayezo ongu- %1$dnjengofundiwe</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d ekhethiwe</item>
+        <item quantity="one">%1$d ekhethiwe</item>
+    </plurals>
+</resources>

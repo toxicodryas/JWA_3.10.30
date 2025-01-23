@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.usercentrics.sdk.ui.components.UCToggle android:id="@id/ucCardSwitch" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.usercentrics.sdk.ui.components.UCTextView android:textSize="@dimen/ucFontTinySize" android:id="@id/ucCardSwitchText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="14.0dip" android:layout_marginStart="4.0dip" android:layout_marginEnd="14.0dip" />
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Διαγράφηκαν %1$dμηνύματα</item>
+        <item quantity="one">Διαγράφηκε %1$dμήνυμα</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Επισημάνθηκαν %1$dμηνύματα ως αναγνωσμένα</item>
+        <item quantity="one">Επισημάνθηκε %1$dμήνυμα ως αναγνωσμένο</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">Επιλέχθηκε %1$d</item>
+        <item quantity="one">Επιλέχθηκε %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">取消</string>
+    <string name="__arcore_continue">继续</string>
+    <string name="__arcore_install_app">需要安装最新版本的“面向 AR 的 Google Play 服务”才能使用此应用。</string>
+    <string name="__arcore_install_feature">需要安装最新版本的“面向 AR 的 Google Play 服务”才能使用此功能。</string>
+    <string name="__arcore_installing">正在安装“面向 AR 的 Google Play 服务”…</string>
+    <string name="applovin_agree_message">如果您选择开始使用我们的应用，请点击\"继续\"</string>
+    <string name="applovin_alt_privacy_policy_text" />
+    <string name="applovin_continue_button_text">继续</string>
+    <string name="applovin_pp_and_tos_title">使用%s之前, 您必须同意我们的服务条款，并确认您已经阅读并知悉我们的隐私政策。</string>
+    <string name="applovin_pp_title">使用%s之前, 您必须确认您已经阅读并知悉我们的隐私政策.</string>
+    <string name="applovin_privacy_policy_text">隐私政策</string>
+    <string name="applovin_terms_of_service_text">服务条款</string>
+    <string name="applovin_terms_of_use_text">使用条款</string>
+</resources>

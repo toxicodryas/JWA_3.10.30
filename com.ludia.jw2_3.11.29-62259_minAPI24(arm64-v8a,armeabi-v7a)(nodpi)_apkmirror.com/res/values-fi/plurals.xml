@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Poistettu %1$dviestiä</item>
+        <item quantity="one">Poistettu %1$dviesti</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Merkittiin %1$dviestiä luetuiksi</item>
+        <item quantity="one">Merkittiin %1$dviesti luetuksi</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+</resources>

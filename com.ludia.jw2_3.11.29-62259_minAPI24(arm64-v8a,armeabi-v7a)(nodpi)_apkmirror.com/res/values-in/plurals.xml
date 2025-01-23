@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notifikasi baru</item>
+        <item quantity="one">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Menghapus %1$dpesan</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Menandai %1$dpesan sebagai telah dibaca</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d terpilih</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/UrbanAirship.PreferenceCenter.Error"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.helper.widget.Flow android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="0.0dip" app:constraint_referenced_ids="error_image,error_text,error_button" app:flow_verticalStyle="packed" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ImageView android:id="@id/error_image" android:layout_width="0.0dip" android:layout_height="wrap_content" style="@style/UrbanAirship.PreferenceCenter.ErrorIcon" />
+    <TextView android:id="@id/error_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/UrbanAirship.PreferenceCenter.ErrorText" />
+    <Button android:id="@id/error_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/UrbanAirship.PreferenceCenter.ErrorButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

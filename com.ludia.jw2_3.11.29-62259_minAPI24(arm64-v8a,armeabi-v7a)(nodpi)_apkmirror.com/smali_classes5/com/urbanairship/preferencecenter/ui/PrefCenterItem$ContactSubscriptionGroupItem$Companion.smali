@@ -1,0 +1,189 @@
+.class public final Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;
+.super Ljava/lang/Object;
+.source "PreferenceCenterAdapter.kt"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "Companion"
+.end annotation
+
+.annotation runtime Lkotlin/Metadata;
+    d1 = {
+        "\u0000R\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0008\u0002\n\u0002\u0010\u0008\n\u0002\u0008\u0003\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000e\n\u0002\u0018\u0002\n\u0002\u0008\u0002\n\u0002\u0010\"\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000b\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0002\n\u0000\u0008\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\u0008\u0002\u00a2\u0006\u0002\u0010\u0002J\u00a9\u0001\u0010\u0007\u001a\u00020\u00082\u0006\u0010\t\u001a\u00020\n2\u0008\u0008\u0002\u0010\u000b\u001a\u00020\u000c2<\u0010\r\u001a8\u0012\u0013\u0012\u00110\u000f\u00a2\u0006\u000c\u0008\u0010\u0012\u0008\u0008\u0011\u0012\u0004\u0008\u0008(\u0012\u0012\u0019\u0012\u0017\u0012\u0004\u0012\u00020\u00140\u0013\u00a2\u0006\u000c\u0008\u0010\u0012\u0008\u0008\u0011\u0012\u0004\u0008\u0008(\u0015\u0012\u0004\u0012\u00020\u00160\u000e2Q\u0010\u0017\u001aM\u0012\u0013\u0012\u00110\u0004\u00a2\u0006\u000c\u0008\u0010\u0012\u0008\u0008\u0011\u0012\u0004\u0008\u0008(\u0019\u0012\u0019\u0012\u0017\u0012\u0004\u0012\u00020\u00140\u0013\u00a2\u0006\u000c\u0008\u0010\u0012\u0008\u0008\u0011\u0012\u0004\u0008\u0008(\u0015\u0012\u0013\u0012\u00110\u0016\u00a2\u0006\u000c\u0008\u0010\u0012\u0008\u0008\u0011\u0012\u0004\u0008\u0008(\r\u0012\u0004\u0012\u00020\u001a0\u0018R\u0016\u0010\u0003\u001a\u00020\u00048\u0006X\u0087\u0004\u00a2\u0006\u0008\n\u0000\u001a\u0004\u0008\u0005\u0010\u0006\u00a8\u0006\u001b"
+    }
+    d2 = {
+        "Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;",
+        "",
+        "()V",
+        "LAYOUT",
+        "",
+        "getLAYOUT",
+        "()I",
+        "createViewHolder",
+        "Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;",
+        "parent",
+        "Landroid/view/ViewGroup;",
+        "inflater",
+        "Landroid/view/LayoutInflater;",
+        "isChecked",
+        "Lkotlin/Function2;",
+        "",
+        "Lkotlin/ParameterName;",
+        "name",
+        "id",
+        "",
+        "Lcom/urbanairship/contacts/Scope;",
+        "scopes",
+        "",
+        "onCheckedChange",
+        "Lkotlin/Function3;",
+        "position",
+        "",
+        "urbanairship-preference-center_release"
+    }
+    k = 0x1
+    mv = {
+        0x1,
+        0x7,
+        0x1
+    }
+    xi = 0x30
+.end annotation
+
+
+# direct methods
+.method private constructor <init>()V
+    .locals 0
+
+    .line 594
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public synthetic constructor <init>(Lkotlin/jvm/internal/DefaultConstructorMarker;)V
+    .locals 0
+
+    invoke-direct {p0}, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;-><init>()V
+
+    return-void
+.end method
+
+.method public static synthetic createViewHolder$default(Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;Landroid/view/ViewGroup;Landroid/view/LayoutInflater;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;ILjava/lang/Object;)Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;
+    .locals 0
+
+    and-int/lit8 p5, p5, 0x2
+
+    if-eqz p5, :cond_0
+
+    .line 600
+    invoke-virtual {p1}, Landroid/view/ViewGroup;->getContext()Landroid/content/Context;
+
+    move-result-object p2
+
+    invoke-static {p2}, Landroid/view/LayoutInflater;->from(Landroid/content/Context;)Landroid/view/LayoutInflater;
+
+    move-result-object p2
+
+    const-string p5, "from(parent.context)"
+
+    invoke-static {p2, p5}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 598
+    :cond_0
+    invoke-virtual {p0, p1, p2, p3, p4}, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;->createViewHolder(Landroid/view/ViewGroup;Landroid/view/LayoutInflater;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;)Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+
+# virtual methods
+.method public final createViewHolder(Landroid/view/ViewGroup;Landroid/view/LayoutInflater;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;)Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;
+    .locals 2
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Landroid/view/ViewGroup;",
+            "Landroid/view/LayoutInflater;",
+            "Lkotlin/jvm/functions/Function2<",
+            "-",
+            "Ljava/lang/String;",
+            "-",
+            "Ljava/util/Set<",
+            "+",
+            "Lcom/urbanairship/contacts/Scope;",
+            ">;",
+            "Ljava/lang/Boolean;",
+            ">;",
+            "Lkotlin/jvm/functions/Function3<",
+            "-",
+            "Ljava/lang/Integer;",
+            "-",
+            "Ljava/util/Set<",
+            "+",
+            "Lcom/urbanairship/contacts/Scope;",
+            ">;-",
+            "Ljava/lang/Boolean;",
+            "Lkotlin/Unit;",
+            ">;)",
+            "Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;"
+        }
+    .end annotation
+
+    const-string v0, "parent"
+
+    invoke-static {p1, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullParameter(Ljava/lang/Object;Ljava/lang/String;)V
+
+    const-string v0, "inflater"
+
+    invoke-static {p2, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullParameter(Ljava/lang/Object;Ljava/lang/String;)V
+
+    const-string v0, "isChecked"
+
+    invoke-static {p3, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullParameter(Ljava/lang/Object;Ljava/lang/String;)V
+
+    const-string v0, "onCheckedChange"
+
+    invoke-static {p4, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullParameter(Ljava/lang/Object;Ljava/lang/String;)V
+
+    .line 604
+    invoke-virtual {p0}, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$Companion;->getLAYOUT()I
+
+    move-result v0
+
+    const/4 v1, 0x0
+
+    invoke-virtual {p2, v0, p1, v1}, Landroid/view/LayoutInflater;->inflate(ILandroid/view/ViewGroup;Z)Landroid/view/View;
+
+    move-result-object p1
+
+    .line 605
+    new-instance p2, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;
+
+    const-string/jumbo v0, "view"
+
+    invoke-static {p1, v0}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
+
+    invoke-direct {p2, p1, p3, p4}, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem$ViewHolder;-><init>(Landroid/view/View;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function3;)V
+
+    return-object p2
+.end method
+
+.method public final getLAYOUT()I
+    .locals 1
+
+    .line 596
+    invoke-static {}, Lcom/urbanairship/preferencecenter/ui/PrefCenterItem$ContactSubscriptionGroupItem;->access$getLAYOUT$cp()I
+
+    move-result v0
+
+    return v0
+.end method

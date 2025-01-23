@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">%1$dመልዕክቶች ተሰርዘዋል</item>
+        <item quantity="one">%1$dመልዕክት ተሰርዟል።</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">%1$dመልዕክቶች እንደተነበቡ ምልክት ተደርጎባቸዋል</item>
+        <item quantity="one">%1$dመልዕክት እንደተነበበ ምልክት ተደርጎበታል።</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">%1$d ተመርጧል</item>
+        <item quantity="one">%1$d ተመርጧል</item>
+    </plurals>
+</resources>

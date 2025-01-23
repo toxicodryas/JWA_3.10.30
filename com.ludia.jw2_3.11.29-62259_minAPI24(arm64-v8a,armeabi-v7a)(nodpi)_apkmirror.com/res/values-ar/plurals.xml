@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">تم حذف %1$dرسائل</item>
+        <item quantity="zero">تم حذف %1$dرسائل</item>
+        <item quantity="one">تم حذف رسالة %1$d</item>
+        <item quantity="two">تم حذف %1$dرسائل</item>
+        <item quantity="few">تم حذف %1$dرسائل</item>
+        <item quantity="many">تم حذف %1$dرسائل</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">تم وضع علامة على %1$dرسائل كمقروءة</item>
+        <item quantity="zero">تم وضع علامة على %1$dرسائل كمقروءة</item>
+        <item quantity="one">تم وضع علامة \"مقروءة\" على رسالة %1$d</item>
+        <item quantity="two">تم وضع علامة على %1$dرسائل كمقروءة</item>
+        <item quantity="few">تم وضع علامة على %1$dرسائل كمقروءة</item>
+        <item quantity="many">تم وضع علامة على %1$dرسائل كمقروءة</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">تم تحديد%1$d</item>
+        <item quantity="zero">تم تحديد%1$d</item>
+        <item quantity="one">تم تحديد%1$d</item>
+        <item quantity="two">تم تحديد%1$d</item>
+        <item quantity="few">تم تحديد%1$d</item>
+        <item quantity="many">تم تحديد%1$d</item>
+    </plurals>
+</resources>

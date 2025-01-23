@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="ua_mc_description_deleted">
+        <item quantity="other">Ištrintos %1$džinutės</item>
+        <item quantity="one">Ištrinta %1$džinutė</item>
+        <item quantity="few">Ištrintos %1$džinutės</item>
+        <item quantity="many">Ištrintos %1$džinutės</item>
+    </plurals>
+    <plurals name="ua_mc_description_marked_read">
+        <item quantity="other">Pažymėtos %1$džinutės kaip perskaitytos</item>
+        <item quantity="one">Pažymėta %1$džinutė kaip perskaityta</item>
+        <item quantity="few">Pažymėtos %1$džinutės kaip perskaitytos</item>
+        <item quantity="many">Pažymėtos %1$džinutės kaip perskaitytos</item>
+    </plurals>
+    <plurals name="ua_selected_count">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+</resources>
